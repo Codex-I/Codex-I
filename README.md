@@ -29,8 +29,8 @@
 
 <h3 align="left">Connect Directly to our CEO:</h3>
 <p align="left">
-  <a href="https://twitter.com/Codex_01" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Codex_01" height="30" width="40" />
+  <a href="https://twitter.com/CodexLag" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Codex" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/olamide-akinrinlola-96082a261/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="olamide-akinrinlola" height="30" width="40" />
